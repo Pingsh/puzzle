@@ -8,3 +8,5 @@
 
 ### 猜想
 * 关于setOnClickListener的BUG,目前的猜想是,目标控件和PopupWindow中的控件并不同属于一个view...
+### 实际情况
+* 代码执行了,PopupWindow也显示了,但快速dismiss了...笨笨
